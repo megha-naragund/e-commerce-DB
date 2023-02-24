@@ -1,5 +1,5 @@
 {
-  "cartIems": [
+  "cartItems": [
     { "id": 1, "name": "Cart 1" , "description": "Description aboubt the cart-item 1" , "price": 10000, "rating": 5, "product-img": "", "quantity":2 },
     { "id": 2, "name": "Cart 2" , "description": "Description aboubt the cart-item 2" , "price": 20000, "rating": 4, "product-img": "", "quantity":1 },
     { "id": 3, "name": "Cart 3" , "description": "Description aboubt the cart-item 3" , "price": 30000, "rating": 3, "product-img": "", "quantity": 4 }
