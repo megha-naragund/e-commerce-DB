@@ -2,39 +2,39 @@
   "cartItems": [
     {
       "id": 1,
-      "name": "Cart 1",
-      "description": "Description aboubt the cart-item 1",
-      "price": 20000,
-      "rating": 4,
-      "product-img": "",
+      "name": "Monitor",
+      "description": "Description aboubt the Monitor",
+      "price": 18000,
+      "rating": 3,
+      "image": "https://www.lg.com/in/images/monitors/md07543925/gallery/27MP400-B-D-01.jpg",
       "quantity": 1
     },
     {
       "id": 2,
-      "name": "Cart 2",
-      "description": "Description aboubt the cart-item 2",
-      "price": 29000,
-      "rating": 4,
-      "product-img": "",
+      "name": "Phone",
+      "description": "Description aboubt the Phone",
+      "price": 20000,
+      "rating": 5,
+      "image": "https://images.samsung.com/is/image/samsung/levant-galaxy-note10-plus-n975-sm-n975fzsdmid-backauraglow-thumb-182079707?$344_344_PNG$",
       "quantity": 1
     },
     {
       "id": 3,
-      "name": "Cart 3",
-      "description": "Description aboubt the cart-item 3",
-      "price": 13000,
+      "name": "Laptop",
+      "description": "Description aboubt the Laptop",
+      "price": 50000,
       "rating": 4,
-      "product-img": "",
-      "quantity": 2
+      "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8&w=1000&q=80",
+      "quantity": 1
     },
     {
       "id": 4,
-      "name": "Phone",
-      "image": "Image",
-      "description": "desc",
-      "price": "120",
-      "rating": "1",
+      "name": "Telivision",
+      "description": "Description aboubt the Telivision",
+      "price": 30000,
+      "rating": 2,
+      "image": "https://www.shutterstock.com/image-photo/4k-monitor-isolated-on-white-260nw-357968483.jpg",
       "quantity": 1
-    }
+    },
   ]
 }
