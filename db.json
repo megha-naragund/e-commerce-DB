@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Monitor",
-      "description": "Description aboubt the Monitor",
+      "description": "Description about the Monitor",
       "price": 18000,
       "rating": 3,
       "image": "https://www.lg.com/in/images/monitors/md07543925/gallery/27MP400-B-D-01.jpg",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Phone",
-      "description": "Description aboubt the Phone",
+      "description": "Description about the Phone",
       "price": 20000,
       "rating": 5,
       "image": "https://images.samsung.com/is/image/samsung/levant-galaxy-note10-plus-n975-sm-n975fzsdmid-backauraglow-thumb-182079707?$344_344_PNG$",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Laptop",
-      "description": "Description aboubt the Laptop",
+      "description": "Description about the Laptop",
       "price": 50000,
       "rating": 4,
       "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8&w=1000&q=80",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Television",
-      "description": "Description aboubt the Television",
+      "description": "Description about the Television",
       "price": 30000,
       "rating": 2,
       "image": "https://www.shutterstock.com/image-photo/4k-monitor-isolated-on-white-260nw-357968483.jpg",
